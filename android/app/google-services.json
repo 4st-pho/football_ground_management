@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "77039310051",
+    "project_id": "football-ground-management",
+    "storage_bucket": "football-ground-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77039310051:android:d09331efd8ed40502921d6",
+        "android_client_info": {
+          "package_name": "com.example.football_ground_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77039310051-a7ur3q4dea5am8ovnkamtaup8ki3nn9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.football_ground_management",
+            "certificate_hash": "6fc30dab9feb2ca013c9fc32376762d6ffeffbfc"
+          }
+        },
+        {
+          "client_id": "77039310051-tgq9003rsgkdfss3g3beo1r8itafvslv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC3W9TgDd_0h9OnFjKsf4_Jx-HkIP_onA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77039310051-m4ukqkq5sgfcfgsi0hmi3mbmcdf5eto7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "77039310051-qg8ak3m48671afktb186jqaudc0i9gbe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.footballGroundManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>77039310051-qg8ak3m48671afktb186jqaudc0i9gbe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.77039310051-qg8ak3m48671afktb186jqaudc0i9gbe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCPoY6pIycpVdUSxtp-KST06I1224RUyYc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>77039310051</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.footballGroundManagement</string>
+	<key>PROJECT_ID</key>
+	<string>football-ground-management</string>
+	<key>STORAGE_BUCKET</key>
+	<string>football-ground-management.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:77039310051:ios:34a653d61cf59b782921d6</string>
+</dict>
+</plist>
